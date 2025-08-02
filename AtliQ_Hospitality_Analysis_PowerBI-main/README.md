@@ -1,4 +1,4 @@
-# AtliQ Hospitality Analysis - PowerBI
+# Hospitality Analysis - PowerBI
 
 
 ## Problem statement
